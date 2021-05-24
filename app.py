@@ -26,7 +26,6 @@ def generated():
         tts = f'http://api.voicerss.org/?key={KEY}&hl={language}&src=No input detected. Please try again.'
         return render_template('generated.html', api=tts, content='No input detected. Please try again.')
     else:
-        
         return render_template('generated.html', api=tts, content=content)
 
 #Run App
