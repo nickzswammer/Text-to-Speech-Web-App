@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.center {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#footer {
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:#6cf;
+ }
+
+ footer{
+     padding-bottom: 50px;
+ }
