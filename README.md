@@ -1,4 +1,4 @@
-Text to Speech Generator
+<h1>Text to Speech Generator</h1>
 
 Web Application that converts text inputted by a user into a text to speech robotic voice, which they can download.
 
